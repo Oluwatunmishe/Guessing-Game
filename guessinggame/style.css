@@ -1,0 +1,144 @@
+header {
+  background-color: #1b5485;
+  padding-top: 1px;
+}
+h1 {
+  text-align: center;
+  color: white;
+}
+#button {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+  color: white;
+}
+button {
+  border: none;
+  
+}
+button.r {
+ 
+  background-color: red;
+  color: white;
+  border-radius: 20px;
+  width: 50px;
+  height: 50px;
+  margin-left: 20px;
+}
+button.g {
+  background-color: #4cdc1d;
+  color: white;
+  border-radius: 20px;
+  width: 50px;
+  height: 50px;
+  margin-left: 20px;
+}
+button.b {
+  background-color: #0f86f9;
+  color: white;
+  border-radius: 20px;
+  width: 50px;
+  height: 50px;
+  margin-left: 20px;
+}
+
+
+ul {
+    height: 30px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border: 1px solid #e7e7e7;
+    background-color: #f3f3f3;
+}
+
+li {
+    float: left;
+}
+li.a{
+    padding-left: 35%;
+}
+li.c{
+    padding-left: 10%;
+}
+li.d{
+    padding-left: 20px;
+}
+
+li a {
+    display: block;
+    color: #666;
+    text-align: center;
+    font-size: 25px;
+    font-style: italic;
+    
+    text-decoration: none;
+}
+li a:hover {
+    background-color:  #0f86f9;
+}
+/* footer */
+#footer{
+   text-align: center;
+    background-color: black;
+
+}
+
+button#f1 {
+    margin: auto;
+    background-color: #4cdc1d;
+    color: white;
+    border-radius: 20px;
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    cursor: pointer;
+   
+  }
+  button#f2 {
+    background-color: #661ddc;
+    color: white;
+    border-radius: 20px;
+    width: 200px;
+    height: 200px;
+    cursor: pointer;
+   margin: 20px;
+  }
+  button#f3 {
+    background-color: #dc4a1d;
+    color: white;
+    border-radius: 20px;
+    width: 200px;
+    height: 200px;
+    cursor: pointer;
+    margin: 20px;
+  }
+  button#f4 {
+    background-color: #dc1d7d;
+    color: white;
+    border-radius: 20px;
+    cursor: pointer;
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+  }
+  button#f5 {
+    background-color: #1dbfdc;
+    color: white;
+    border-radius: 20px;
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    cursor: pointer;
+  }
+  button#f6 {
+    background-color: yellow;
+    color: white;
+    border-radius: 20px;
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    cursor: pointer;
+  }
