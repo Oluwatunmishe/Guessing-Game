@@ -1,2 +1,2 @@
-# guessinggame
+#Guessing Game
 guessing of colors
